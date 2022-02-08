@@ -1,0 +1,4 @@
+
+create table persons ( id INTEGER, name NVARCHAR2(5));
+select * from persons;
+commit;
